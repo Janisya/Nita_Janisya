@@ -1,0 +1,36 @@
+.kotakbesar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.kotakfoto{
+    margin: 30px;
+    border-radius: 50%;
+}
+.kotakicon {
+    margin: 25px;
+    border-radius: 30%;
+}
+
+.kotakbesar{
+    width: 70%;
+    
+}
+.kotakkiri{
+    width: 30%;
+    background-color:#647578;
+}
+
+.kotakkanan{
+    width: 40%;
+    background-color: #997b5d;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.kotakkecil{
+    /* width: 10%px;  */
+    background-color: rgb(196, 196, 137);
+    /* border-radius: 5%; */
+}
